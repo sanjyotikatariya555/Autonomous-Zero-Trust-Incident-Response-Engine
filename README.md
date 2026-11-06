@@ -12,4 +12,4 @@ Rather than relying on outdated static rules that block users for simple passwor
 ## 📊 Proof of Concept & Execution
 Below is the verification telemetry of the pipeline successfully identifying an automated session hijack attack vector and triggering automated cross-cloud API mitigations under 2 seconds:
 
-![Terminal Verification Logs](terminal_screenshot.png)
+![Terminal Demonstration](./terminal_screenshot.png)
